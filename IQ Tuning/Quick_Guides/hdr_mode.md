@@ -104,7 +104,7 @@ Check the UART log after boot:
 1. **IQ timestamp:** this confirms the correct IQ bin is built in.
    The SDK default GC4663 IQ shows:
    ```text
-   iq timestamp: 2026/09/21 17:34:49
+   iq timestamp: 2026/11/18 16:58:36
    ```
 2. **HDR active:** look for `[VOE]change sensor mode => 2560x1440@20.000000fps - 'hdr line 2to1' `.
 3. **Stream:** open RealCam and confirm the video stream is visible.
