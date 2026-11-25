@@ -20,7 +20,7 @@
 |---|---|
 | `Calibration_video` | ISP calibration training course (located in released assets)|
 | `IQPackTool` | Binary package tool, also included in RealCam |
-| `x86_Release_AmebaPro_20231107_IQ1000C` | RealCam tool |
+| `x86_Release_AmebaPro_20230707_IQ1000C` | RealCam tool |
 | `[RealCam][20201026] NV12_NV16toYUY_Filter_dll` | Video decoding/conversion library registration files |
 | `flash_ntz_uvc_f37_20250613(AMB82_Default).bin` | Firmware for AMB82 with active UVC mode and the default optical configuration |
 | `flash_ntz_uvc_gc2053_20250613(EVB_Default).bin` | Firmware for RTK EVB with active UVC mode and the default optical configuration |
